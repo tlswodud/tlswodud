@@ -41,9 +41,9 @@ icon 참고: https://simpleicons.org/?q=go
 ### 기술 스택 😄
 
 #### 언어
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=C++&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat&logo=C#&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-F7DF1E?&style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-F7DF1E?&style=flat&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C#-F7DF1E?&style=flat&logo=C#&logoColor=white"/>
 
 #### 프레임워크
 
