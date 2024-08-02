@@ -29,7 +29,7 @@ icon 참고: https://simpleicons.org/?q=go
 > **REST API** 구현과 **K8s** 등 인프라 기술에 관심이 많습니다.
 
 
-![tlswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaeyoung Shin&count_private=true&show_icons=true&theme=github_dark)
+![tlswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlswodud&count_private=true&show_icons=true&theme=github_dark)
 
 ---
 
