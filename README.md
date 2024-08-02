@@ -20,16 +20,21 @@ icon 참고: https://simpleicons.org/?q=go
 ### 배움에 두려움이 없이 항상 정진하는 개발자입니다. 🤓
 
 > 
-> **Pytorch**와 **Transformers**를 배웠으며,
+> **Pytorch** 와 **Transformers** 를 배웠으며,
 >
-> **DevOps**와 **MLOps**에 관심이 많습니다.
+> 데이터와 모델을 서빙하여 새로운 인사이트를 제공하는 것에 관심이 많습니다.
+>
+> **C#** 을 통한 **윈도우 응용프로그램**을 개발 및 배포한 경험이 있습니다.
+>
+> 여러 프로젝트에 참여했으며 
+>
+> 사용자를 편리함을 제공하면서 즐거움을 제공하는
+>
+> 개발에 관심이 많습니다.
 > 
-> 특히 데이터와 모델을 서빙하여 개발자와 사용자를 편리하게 해 줄
-> 
-> **REST API** 구현과 **K8s** 등 인프라 기술에 관심이 많습니다.
 
 
-![tlswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlswodud&count_private=true&show_icons=true&theme=github_dark)
+![tlswodud's GitHub stats](https://github-readme-stats.vercel.app/api?username=tlswodud&count_private=true&show_icons=true&theme=github_white)
 
 ---
 
