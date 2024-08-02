@@ -47,9 +47,7 @@ icon 참고: https://simpleicons.org/?q=go
 
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?&style=flat&logo=PyTorch&logoColor=white"/>  
 
-#### 기타
 
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  
 ---
 
 ### 더 알고 싶으시다면? 🤗
