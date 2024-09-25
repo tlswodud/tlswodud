@@ -17,7 +17,7 @@ shields.io 참고: https://shields.io/
 icon 참고: https://simpleicons.org/?q=go
  -->
 
-### 배움에 두려움이 없이 항상 정진하는 개발자입니다. 🤓
+### 배움에 두려움이 없이 항상 정진하는 엔지니어입니다. 🤓
 
 > 
 > **python** , **C++** 등 여러 언어를 공부하고 다수의 프로젝트에 참여했습니다. 
