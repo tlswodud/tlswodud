@@ -58,4 +58,4 @@ icon 참고: https://simpleicons.org/?q=go
 ### 더 알고 싶으시다면? 🤗
 
 #### [<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/> 티스토리 블로그](https://fktshin.tistory.com/)
-#### [<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> 이력서](https://www.notion.so/ea7eab8bf8e940aab47ae03205671d43)
+
